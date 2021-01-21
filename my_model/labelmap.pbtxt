@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'open'
+}
+
+item {
+  id: 2
+  name: 'close'
+}
+
+item {
+  id: 3
+  name: 'yawn'
+}
+
+item {
+  id: 4
+  name: 'no yawn'
+}
+
+
